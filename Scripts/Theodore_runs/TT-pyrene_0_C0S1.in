@@ -1,0 +1,12 @@
+rtype='cclib'
+rfile='TT-pyrene_0_C0S1.log'
+coor_file='/home/inferno/Bsc_Project/Scripts/xyz_files/TT-pyrene_0.xyz'
+coor_format='xyz'
+at_lists=[[0, 1, 2, 3, 4, 5, 6, 7, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 32, 33, 34, 35], [9, 8, 15, 14, 10, 11, 12, 13, 29, 30, 31]]
+Om_formula=2
+eh_pop=1
+comp_ntos=True
+comp_dntos=False
+jmol_orbitals=True
+molden_orbitals=False
+prop_list=['Om', 'POS', 'PR', 'CT', 'COH', 'CTnt', 'PRNTO', 'Z_HE', 'RMSeh']

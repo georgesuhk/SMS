@@ -1,0 +1,7 @@
+name,smiles string
+CDT-pyrene,c4cc5ccc6ccc(c3cc2Cc1ccsc1c2s3)c7ccc(c4)c5c67
+CDT-c3-pyrene,C(#Cc1ccc2ccc3cccc4ccc1c2c34)c7cc6Cc5ccsc5c6s7
+CDT-B-pyrene,c5cc6ccc7ccc(c4ccc(c3cc2Cc1ccsc1c2s3)cc4)c8ccc(c5)c6c78
+CDT-PDI,CC(C)n4c(=O)c5ccc6c8ccc9c(=O)n(c3cc2Cc1ccsc1c2s3)c(=O)c%10ccc(c7ccc(c4=O)c5c67)c8c9%10
+CDT-c3-PDI,CC(C)n4c(=O)c5ccc6c8ccc9c(=O)n(C#Cc3cc2Cc1ccsc1c2s3)c(=O)c%10ccc(c7ccc(c4=O)c5c67)c8c9%10
+CDT-B-PDI,CC(C)n5c(=O)c6ccc7c9ccc%10c(=O)n(c4ccc(c3cc2Cc1ccsc1c2s3)cc4)c(=O)c%11ccc(c8ccc(c5=O)c6c78)c9c%10%11

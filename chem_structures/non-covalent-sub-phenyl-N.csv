@@ -1,0 +1,6 @@
+name,smiles string
+Quarterphenyl,C1=CC=C(C=C1)C2=CC=C(C=C2)C3=CC=C(C=C3)C4=CC=CC=C4
+Quarterphenyl-1NH,c4ccc(c3ccc(c2ccc(c1ncccn1)cc2)cc3)cc4
+Quarterphenyl-2NH (Adjacent),c4ccc(c3ccc(c2ncc(c1ncccn1)cn2)cc3)cc4
+Quarterphenyl-2NH (Across),c4ccc(c3cnc(c2ccc(c1ncccn1)cc2)nc3)cc4
+Quarterphenyl-3NH,c4ccc(c3ncc(c2ncc(c1ncccn1)cn2)cn3)cc4

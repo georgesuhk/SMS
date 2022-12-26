@@ -1,0 +1,9 @@
+%oldchk=IDT-A_1_C0S0.chk
+%chk=IDT-A_1_C0S0_new.chk
+%chk=IDT-A_1_C0S0.chk
+%mem=30GB
+%nprocshared=32
+
+#p nosymm Geom=Checkpoint pop=full iop(9/40=3) td(NStates=20)  b3lyp/6-311g(d,p)
+
+

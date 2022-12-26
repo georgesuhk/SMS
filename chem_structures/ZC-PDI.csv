@@ -1,0 +1,4 @@
+name,smiles string
+ZC-Ph-PDI,CCc9c(C)c%10c(c8ccc(n1c(=O)c2ccc3c5ccc6c(=O)n(C(C)C)c(=O)c7ccc(c4ccc(c1=O)c2c34)c5c67)cc8)c%15[C@@H](C)[C@H](CCC(=O)OC)c%14c%12CC(=O)c%13c(C)c%11cc%17c(CC)c(C)c%16cc9n%10[Zn](n%11c%12%13)([n+]%14%15)[n+]%16%17
+ZC-DPA-p-PDI,CCc%10c(C)c%11c(c9ccc(C#Cc8ccc(n1c(=O)c2ccc3c5ccc6c(=O)n(C(C)C)c(=O)c7ccc(c4ccc(c1=O)c2c34)c5c67)cc8)cc9)c%16[C@@H](C)[C@H](CCC(=O)OC)c%15c%13CC(=O)c%14c(C)c%12cc%18c(CC)c(C)c%17cc%10n%11[Zn](n%12c%13%14)([n+]%15%16)[n+]%17%18
+ZC-DPA-m-PDI,CCc%10c(C)c%11c(c9ccc(C#Cc8cccc(n1c(=O)c2ccc3c5ccc6c(=O)n(C(C)C)c(=O)c7ccc(c4ccc(c1=O)c2c34)c5c67)c8)cc9)c%16[C@@H](C)[C@H](CCC(=O)OC)c%15c%13CC(=O)c%14c(C)c%12cc%18c(CC)c(C)c%17cc%10n%11[Zn](n%12c%13%14)([n+]%15%16)[n+]%17%18

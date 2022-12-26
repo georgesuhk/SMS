@@ -1,0 +1,6 @@
+name,smiles string
+PTO,O=c1c(=O)c3cccc4c(=O)c(=O)c2cccc1c2c34
+PhenQ,O=c2c(=O)c1cccnc1c3ncccc23
+BDTQ,O=c2c(=O)c1sccc1c3ccsc23
+PQ,O=c2c(=O)c1ccccc1c3ccccc23
+NTCDM,Cn1c(=O)c2ccc3c(=O)n(C)c(=O)c4ccc(c1=O)c2c34

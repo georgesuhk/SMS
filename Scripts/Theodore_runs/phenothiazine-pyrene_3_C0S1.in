@@ -1,0 +1,12 @@
+rtype='cclib'
+rfile='phenothiazine-pyrene_3_C0S1.log'
+coor_file='/home/inferno/Bsc_Project/Scripts/Theodore_runs/phenothiazine-pyrene_3.xyz'
+coor_format='xyz'
+at_lists=[[17, 16, 29, 28, 27, 26, 25, 24, 23, 22, 21, 20, 19, 18, 30, 31, 47, 48, 49, 50, 51, 52, 53, 54, 55], [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 34, 35, 36, 37, 38, 39, 40, 41, 42, 43, 44, 58, 59], [12, 13, 14, 15, 32, 33, 45, 46, 56, 57]]
+Om_formula=2
+eh_pop=1
+comp_ntos=True
+comp_dntos=False
+jmol_orbitals=True
+molden_orbitals=False
+prop_list=['Om', 'POS', 'PR', 'CT', 'COH', 'CTnt', 'PRNTO', 'Z_HE', 'RMSeh']

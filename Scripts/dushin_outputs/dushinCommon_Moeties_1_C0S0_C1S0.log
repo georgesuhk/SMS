@@ -1,0 +1,10 @@
+ Enter ifcurve (0=recti, 1=orth curvi, 2=apprx curvi, -1 = skip
+ And atom ordering flag, 0= never changes, 1= use the first order thenceforth,
+  2= deduce it (does read on fail), 3= always read it
+ Reading file: 
+ ./Common_Moeties_1_C0S0.log                                                    
+                                          
+  Entering Gaussian System, Link 0=g16                                          
+  
+ Gaussian format, type: g94, g98, g03= F F F
+  File lengths (MBytes):  RWF=     72 Int=      0 D2E=      0 Chk=      9 Sc

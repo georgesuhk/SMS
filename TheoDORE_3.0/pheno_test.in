@@ -1,0 +1,12 @@
+rtype='cclib'
+rfile='phenothiazine-pyrene_0_C0S1.log'
+coor_file='phenothiazine-pyrene_0.xyz'
+coor_format='xyz'
+at_lists=[[1, 31, 2, 6, 34, 5, 4, 7, 8, 13, 9, 35, 10, 36, 11, 37, 12, 38, 14, 15, 28, 16, 39, 17, 29, 18, 40, 19, 41, 20, 30, 21, 42, 22, 43, 23, 24, 44, 25, 26, 45, 27, 46, 47, 3, 33, 32]]
+Om_formula=2
+eh_pop=1
+comp_ntos=True
+comp_dntos=False
+jmol_orbitals=True
+molden_orbitals=False
+prop_list=['Om', 'POS', 'PR', 'CT', 'COH', 'CTnt', 'PRNTO', 'Z_HE', 'RMSeh']

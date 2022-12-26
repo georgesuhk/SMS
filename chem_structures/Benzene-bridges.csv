@@ -1,0 +1,5 @@
+name,smiles string
+B-B,c2ccc(c1ccccc1)cc2
+B-cc-B,C(=C\c1ccccc1)/c2ccccc2
+B-c3-B,C(#Cc1ccccc1)c2ccccc2
+B-B-B,c3ccc(c2ccc(c1ccccc1)cc2)cc3

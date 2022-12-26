@@ -1,0 +1,12 @@
+rtype='cclib'
+rfile='IDT-A_3_C0S0.log'
+coor_file='/home/inferno/Bsc_Project/Scripts/xyz_files/IDT-A_3.xyz'
+coor_format='xyz'
+at_lists=[[40, 39, 41, 38, 37, 36, 35, 34, 33, 31, 32, 28, 29, 30, 47, 48, 49, 46, 45, 44, 43, 42, 85, 86, 87, 88, 89, 90, 91, 92, 93, 94, 95, 96, 97, 98, 99, 100, 101], [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 53, 54, 55, 56, 57, 58, 59, 60, 61, 62, 63, 64, 65, 66, 67, 68, 69, 70, 71, 72, 73, 74, 75, 76, 77, 78, 79, 105, 106, 107, 108], [17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 50, 51, 52, 80, 81, 82, 83, 84, 102, 103, 104]]
+Om_formula=2
+eh_pop=1
+comp_ntos=True
+comp_dntos=False
+jmol_orbitals=True
+molden_orbitals=False
+prop_list=['Om', 'POS', 'PR', 'CT', 'COH', 'CTnt', 'PRNTO', 'Z_HE', 'RMSeh']

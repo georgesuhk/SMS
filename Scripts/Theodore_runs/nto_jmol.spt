@@ -1,0 +1,169 @@
+mo titleformat ""
+
+background white
+mo fill
+mo cutoff 0.04
+
+mo color blue red
+mo [ -0.997 187]
+write image pngt "NTO1Sing?Sym_1o_1.00.png"
+mo color orange green
+mo [ -1.000 188]
+write image pngt "NTO1Sing?Sym_1v_1.00.png"
+
+mo color blue red
+mo [ 0.934 185 -0.335 184]
+write image pngt "NTO2Sing?Sym_1o_1.00.png"
+mo color orange green
+mo [ 0.999 188]
+write image pngt "NTO2Sing?Sym_1v_1.00.png"
+
+mo color blue red
+mo [ -1.000 186]
+write image pngt "NTO3Sing?Sym_1o_1.00.png"
+mo color orange green
+mo [ -1.000 188]
+write image pngt "NTO3Sing?Sym_1v_1.00.png"
+
+mo color blue red
+mo [ 0.936 184 0.345 185]
+write image pngt "NTO4Sing?Sym_1o_1.00.png"
+mo color orange green
+mo [ 1.000 188]
+write image pngt "NTO4Sing?Sym_1v_1.00.png"
+
+mo color blue red
+mo [ -0.995 183]
+write image pngt "NTO5Sing?Sym_1o_1.00.png"
+mo color orange green
+mo [ -0.997 188]
+write image pngt "NTO5Sing?Sym_1v_1.00.png"
+
+mo color blue red
+mo [ -0.996 187]
+write image pngt "NTO6Sing?Sym_1o_1.00.png"
+mo color orange green
+mo [ -0.998 189]
+write image pngt "NTO6Sing?Sym_1v_1.00.png"
+
+mo color blue red
+mo [ -0.997 187]
+write image pngt "NTO7Sing?Sym_1o_0.99.png"
+mo color orange green
+mo [ -0.999 190]
+write image pngt "NTO7Sing?Sym_1v_0.99.png"
+
+mo color blue red
+mo [ 0.742 181 -0.642 180]
+write image pngt "NTO8Sing?Sym_1o_0.98.png"
+mo color orange green
+mo [ 0.987 188]
+write image pngt "NTO8Sing?Sym_1v_0.98.png"
+
+mo color blue red
+mo [ -0.977 179 -0.210 180]
+write image pngt "NTO9Sing?Sym_1o_0.99.png"
+mo color orange green
+mo [ -0.984 188]
+write image pngt "NTO9Sing?Sym_1v_0.99.png"
+
+mo color blue red
+mo [ 0.994 182]
+write image pngt "NTO10Sing?Sym_1o_1.00.png"
+mo color orange green
+mo [ 1.000 188]
+write image pngt "NTO10Sing?Sym_1v_1.00.png"
+
+mo color blue red
+mo [ -0.578 177 0.572 178 -0.400 180 -0.302 181]
+write image pngt "NTO11Sing?Sym_1o_0.99.png"
+mo color orange green
+mo [ -1.000 188]
+write image pngt "NTO11Sing?Sym_1v_0.99.png"
+
+mo color blue red
+mo [ -0.776 177 0.401 180 -0.362 178 0.299 181]
+write image pngt "NTO12Sing?Sym_1o_0.94.png"
+mo color orange green
+mo [ -1.000 188]
+write image pngt "NTO12Sing?Sym_1v_0.94.png"
+mo color blue red
+mo [ 0.999 186]
+write image pngt "NTO12Sing?Sym_2o_0.05.png"
+mo color orange green
+mo [ 0.855 192 -0.505 189]
+write image pngt "NTO12Sing?Sym_2v_0.05.png"
+
+mo color blue red
+mo [ 0.998 176]
+write image pngt "NTO13Sing?Sym_1o_0.99.png"
+mo color orange green
+mo [ 0.986 188]
+write image pngt "NTO13Sing?Sym_1v_0.99.png"
+
+mo color blue red
+mo [ 0.999 187]
+write image pngt "NTO14Sing?Sym_1o_0.98.png"
+mo color orange green
+mo [ 0.999 191]
+write image pngt "NTO14Sing?Sym_1v_0.98.png"
+
+mo color blue red
+mo [ 0.717 178 0.483 181 0.444 180]
+write image pngt "NTO15Sing?Sym_1o_0.99.png"
+mo color orange green
+mo [ 1.000 188]
+write image pngt "NTO15Sing?Sym_1v_0.99.png"
+
+mo color blue red
+mo [ -0.997 187]
+write image pngt "NTO16Sing?Sym_1o_0.97.png"
+mo color orange green
+mo [ -0.997 192]
+write image pngt "NTO16Sing?Sym_1v_0.97.png"
+
+mo color blue red
+mo [ -0.995 175]
+write image pngt "NTO17Sing?Sym_1o_0.54.png"
+mo color orange green
+mo [ -0.999 188]
+write image pngt "NTO17Sing?Sym_1v_0.54.png"
+mo color blue red
+mo [ 0.999 186]
+write image pngt "NTO17Sing?Sym_2o_0.44.png"
+mo color orange green
+mo [ 0.980 190]
+write image pngt "NTO17Sing?Sym_2v_0.44.png"
+
+mo color blue red
+mo [ 1.000 186]
+write image pngt "NTO18Sing?Sym_1o_0.81.png"
+mo color orange green
+mo [ 0.979 189]
+write image pngt "NTO18Sing?Sym_1v_0.81.png"
+mo color blue red
+mo [ 0.891 173 0.356 177 0.210 175]
+write image pngt "NTO18Sing?Sym_2o_0.18.png"
+mo color orange green
+mo [ 1.000 188]
+write image pngt "NTO18Sing?Sym_2v_0.18.png"
+
+mo color blue red
+mo [ -0.996 171]
+write image pngt "NTO19Sing?Sym_1o_0.96.png"
+mo color orange green
+mo [ -0.987 188]
+write image pngt "NTO19Sing?Sym_1v_0.96.png"
+
+mo color blue red
+mo [ -0.624 172 0.549 173 0.493 174]
+write image pngt "NTO20Sing?Sym_1o_0.77.png"
+mo color orange green
+mo [ -0.999 188]
+write image pngt "NTO20Sing?Sym_1v_0.77.png"
+mo color blue red
+mo [ -0.983 186]
+write image pngt "NTO20Sing?Sym_2o_0.22.png"
+mo color orange green
+mo [ 0.744 192 -0.505 189 -0.413 193]
+write image pngt "NTO20Sing?Sym_2v_0.22.png"

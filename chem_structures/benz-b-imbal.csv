@@ -1,0 +1,5 @@
+name,smiles string
+Anthracene-B,c4ccc(c2c1ccccc1cc3ccccc23)cc4
+Anthracene-c2-B,C(=C\c2c1ccccc1cc3ccccc23)/c4ccccc4
+Anthracene-c3-B,C(#Cc2c1ccccc1cc3ccccc23)c4ccccc4
+Anthracene-B-B,c5ccc(c4ccc(c2c1ccccc1cc3ccccc23)cc4)cc5

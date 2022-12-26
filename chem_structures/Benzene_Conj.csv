@@ -1,0 +1,7 @@
+name,smiles string
+Benzene,c1ccccc1
+Naphthalene,c1c2ccccc2ccc1
+Anthracene,c1c2cc3ccccc3cc2ccc1
+Tetracene,c1c2cc3cc4ccccc4cc3cc2ccc1
+Pentacene,c1c2cc3cc4cc5ccccc5cc4cc3cc2ccc1
+Hexacene,c1c2cc3cc4cc5cc6ccccc6cc5cc4cc3cc2ccc1

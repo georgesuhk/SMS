@@ -1,0 +1,8 @@
+name,smiles string
+Thienothiophene,C1=CSC2=C1SC=C2
+"2,2'-Bithiophene",C1=CSC(=C1)C2=CC=CS2
+"3,3'-Bithiophene",C1=CSC=C1C2=CSC=C2
+Cyclopentadithiophene,c3cc2Cc1ccsc1c2s3
+IDT,CC3(C)c1cc4c(cc1c2sccc23)C(C)(C)c5ccsc45
+Benzodithiophene,C1=CC2=C(C=CS2)C3=C1SC=C3
+Benzotrithiophene,C1=CSC2=C1C3=C(C=CS3)C4=C2C=CS4

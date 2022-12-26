@@ -1,0 +1,5 @@
+name,smiles string
+[7]circulene (corannulene),c16ccc2ccc3ccc5c4c(c1c2c34)c(cc5)cc6
+[7]circulene (coronene),c1cc2ccc3ccc4ccc5ccc6ccc1c7c2c3c4c5c67
+[7]circulene ,C1=CC2=C3C4=C1C=CC5=C4C6=C(C=C5)C=CC7=C6C8=C(C=CC(=C38)C=C2)C=C7
+[12]circulene (kekulene),C1=CC2=CC3=C4C=C2C5=CC6=C(C=CC7=CC8=C(C=C76)C9=CC2=C(C=CC6=C2C=C2C(=C6)C=CC6=C2C=C4C(=C6)C=C3)C=C9C=C8)C=C51

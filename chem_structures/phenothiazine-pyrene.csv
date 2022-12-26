@@ -1,0 +1,5 @@
+name,smiles string
+N-Pyrenylphenothiazine,c1ccc3c(c1)sc2ccccc2n3c4cc5ccc6cccc7ccc(c4)c5c67
+10-[3- (Pyrene-1-yl)-phenyl]-10-H-phenothiazine,c8cc(c1ccc2ccc3cccc4ccc1c2c34)cc(n7c5ccccc5sc6ccccc67)c8
+10-[4-(pyrene1-yl)-phenyl]-10H-phenothiazine,c1ccc3c(c1)sc2ccccc2n3c8ccc(c4ccc5ccc6cccc7ccc4c5c67)cc8
+3-[4-(1-pyrenyl)-phenyl]- 10-methyl-10H-phenothiazine,Cn8c1ccccc1sc7cc(c6ccc(c2ccc3ccc4cccc5ccc2c3c45)cc6)ccc78

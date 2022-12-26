@@ -1,0 +1,8 @@
+name,smiles string
+CDT-BT,c5ccc4sc(c3cc2Cc1ccsc1c2s3)nc4c5
+CDT-c2-BT,C(=C\c2nc1ccccc1s2)/c5cc4Cc3ccsc3c4s5
+CDT-c3-BT,C(#Cc2nc1ccccc1s2)c5cc4Cc3ccsc3c4s5
+CDT-B-BT,c6ccc5sc(c4ccc(c3cc2Cc1ccsc1c2s3)cc4)nc5c6
+CDT-c2-c2-BT,C(/C=C/c2nc1ccccc1s2)=C\c5cc4Cc3ccsc3c4s5
+CDT-c3-c3-BT,C(C#Cc2nc1ccccc1s2)#Cc5cc4Cc3ccsc3c4s5
+CDT-B-B-BT,c7ccc6sc(c5ccc(c4ccc(c3cc2Cc1ccsc1c2s3)cc4)cc5)nc6c7

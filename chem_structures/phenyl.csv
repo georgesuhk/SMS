@@ -1,0 +1,6 @@
+name,smiles string
+Biphenyl,c1ccccc1-c2ccccc2
+p-Terphenyl,C1=CC=C(C=C1)C2=CC=C(C=C2)C3=CC=CC=C3
+p-Quarterphenyl,C1=CC=C(C=C1)C2=CC=C(C=C2)C3=CC=C(C=C3)C4=CC=CC=C4
+p-Quinquephenyl,C1=CC=C(C=C1)C2=CC=C(C=C2)C3=CC=C(C=C3)C4=CC=C(C=C4)C5=CC=CC=C5
+p-Sexiphenyl,C1=CC=C(C=C1)C2=CC=C(C=C2)C3=CC=C(C=C3)C4=CC=C(C=C4)C5=CC=C(C=C5)C6=CC=CC=C6

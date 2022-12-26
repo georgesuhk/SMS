@@ -1,0 +1,12 @@
+rtype='cclib'
+rfile='CDT-BT_5_C0S0.log'
+coor_file='/home/inferno/Bsc_Project/Scripts/xyz_files/CDT-BT_5.xyz'
+coor_format='xyz'
+at_lists=[[13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 28, 29, 30, 31, 32], [7, 8, 9, 10, 11, 3, 4, 5, 6, 24, 25, 26, 27], [0, 1, 2, 12]]
+Om_formula=2
+eh_pop=1
+comp_ntos=True
+comp_dntos=False
+jmol_orbitals=True
+molden_orbitals=False
+prop_list=['Om', 'POS', 'PR', 'CT', 'COH', 'CTnt', 'PRNTO', 'Z_HE', 'RMSeh']

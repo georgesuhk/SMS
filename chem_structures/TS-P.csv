@@ -1,0 +1,5 @@
+﻿name,smiles string
+TS-P2,Cn%17c(c1cccs1)c%16c(=O)n(C)c(c%15ccc(c7cc6c4OCCCOc2ccccc2n8c(=O)c9ccc%10c%12ccc%13c(=O)n(c3ccccc3OCCOc(c5ccsc45)c6s7)c(=O)c%14ccc(c%11ccc(c8=O)c9c%10%11)c%12c%13%14)s%15)c%16c%17=O
+TS-P2 (PDI sides),CCC(C)(C)c8ccc7OCCCOc%16c5cc(c4ccc(c3c2c(=O)n(C)c(c1cccs1)c2c(=O)n3C)s4)sc5c(OCCOc6ccc(C(C)(C)CC)cc6n9c(=O)c%10ccc%11c%13ccc%14c(=O)n(c7c8)c(=O)c%15ccc(c%12ccc(c9=O)c%10c%11%12)c%13c%14%15)c%17ccsc%16%17
+TS-P3,COc%16c1cc(C)sc1c(OC)c%17cc(c%15ccc(c4c5c(=O)n6CCCOc2ccccc2n8c(=O)c9ccc%10c%12ccc%13c(=O)n(c3ccccc3OCCCn4c(=O)c5c6c7cccs7)c(=O)c%14ccc(c%11ccc(c8=O)c9c%10%11)c%12c%13%14)s%15)sc%16%17
+TS-P3 (PDI sides),CCC(C)(C)c4ccc3OCCCn%17c(c1cccs1)c%16c(=O)n(CCCOc2ccc(C(C)(C)CC)cc2n5c(=O)c6ccc7c9ccc%10c(=O)n(c3c4)c(=O)c%11ccc(c8ccc(c5=O)c6c78)c9c%10%11)c(c%15ccc(c%14cc%13c(OC)c%12sc(C)cc%12c(OC)c%13s%14)s%15)c%16c%17=O

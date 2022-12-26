@@ -1,0 +1,9 @@
+name,smiles string
+PDI,CC(C)n1c(=O)c2ccc3c5ccc6c(=O)[nH]c(=O)c7ccc(c4ccc(c1=O)c2c34)c5c67
+PDI-B,CC(C)n2c(=O)c3ccc4c6ccc7c(=O)n(c1ccccc1)c(=O)c8ccc(c5ccc(c2=O)c3c45)c6c78
+PDI-c,CC(C)n1c(=O)c2ccc3c5ccc6c(=O)n(C)c(=O)c7ccc(c4ccc(c1=O)c2c34)c5c67
+PDI-c2-,C/C=C/n1c(=O)c2ccc3c5ccc6c(=O)n(C(C)C)c(=O)c7ccc(c4ccc(c1=O)c2c34)c5c67
+PDI-c3-,CC#Cn1c(=O)c2ccc3c5ccc6c(=O)n(C(C)C)c(=O)c7ccc(c4ccc(c1=O)c2c34)c5c67
+PDI-c2-c2-,C/C=C/C=C/n1c(=O)c2ccc3c5ccc6c(=O)n(C(C)C)c(=O)c7ccc(c4ccc(c1=O)c2c34)c5c67
+PDI-c3-c3-,CC#CC#Cn1c(=O)c2ccc3c5ccc6c(=O)n(C(C)C)c(=O)c7ccc(c4ccc(c1=O)c2c34)c5c67
+PDI-B-B,CC(C)n3c(=O)c4ccc5c7ccc8c(=O)n(c2ccc(c1ccccc1)cc2)c(=O)c9ccc(c6ccc(c3=O)c4c56)c7c89

@@ -1,0 +1,4 @@
+name,smiles string
+TT-Pyrene,c3cc4ccc5cc(c2cc1sccc1s2)cc6ccc(c3)c4c56
+TT-p-B-Pyrene,c4cc5ccc6cc(c3ccc(c2cc1sccc1s2)cc3)cc7ccc(c4)c5c67
+TT-m-B-Pyrene,c7cc(c1cc2ccc3cccc4ccc(c1)c2c34)cc(c6cc5sccc5s6)c7

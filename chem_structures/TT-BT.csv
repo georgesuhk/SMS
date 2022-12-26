@@ -1,0 +1,5 @@
+name,smiles string
+TT-BT,c4ccc3sc(c2cc1sccc1s2)nc3c4
+TT-c-cc-BT,C(=C\c2nc1ccccc1s2)/c4cc3sccc3s4
+TT-c3-BT,C(#Cc2nc1ccccc1s2)c4cc3sccc3s4
+TT-B-BT,c5ccc4sc(c3ccc(c2cc1sccc1s2)cc3)nc4c5

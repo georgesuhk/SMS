@@ -1,0 +1,6 @@
+name,smiles string
+IDT-pyrene,CC3(C)c1ccsc1c2cc9c(cc23)c8sc(c4ccc5ccc6cccc7ccc4c5c67)cc8C9(C)C
+IDT-B-pyrene,CC3(C)c1ccsc1c2cc%10c(cc23)c9sc(c8ccc(c4ccc5ccc6cccc7ccc4c5c67)cc8)cc9C%10(C)C
+IDT-B-PDI,CC(C)n7c(=O)c8ccc9c%11ccc%12c(=O)n(c6ccc(c1cc3c(s1)c2cc5c(cc2C3(C)C)c4sccc4C5(C)C)cc6)c(=O)c%13ccc(c%10ccc(c7=O)c8c9%10)c%11c%12%13
+IDT-DPA-m-PDI,CC(C)n8c(=O)c9ccc%10c%12ccc%13c(=O)n(c7ccc(C#Cc6cccc(c1cc3c(s1)c2cc5c(cc2C3(C)C)c4sccc4C5(C)C)c6)cc7)c(=O)c%14ccc(c%11ccc(c8=O)c9c%10%11)c%12c%13%14
+IDT-DPA-p-PDI,CC(C)n8c(=O)c9ccc%10c%12ccc%13c(=O)n(c7ccc(C#Cc6ccc(c1cc3c(s1)c2cc5c(cc2C3(C)C)c4sccc4C5(C)C)cc6)cc7)c(=O)c%14ccc(c%11ccc(c8=O)c9c%10%11)c%12c%13%14
